@@ -1,17 +1,17 @@
   body  {
-    margin: 0%;
-    font-family: "Raleway", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+      margin: 0%;
+      font-family: "Raleway", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
   }
 
   h1{
       font-size: 50px;
-  }
+    }
   h2{
     font-size: 40px;
-  }
+    }
   p{
     color: dimgray;
   }
